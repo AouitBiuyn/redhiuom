@@ -5,11 +5,11 @@
 cat << EOF > /etc/v2ray/config.json
 {
     "inbounds": [{
-        "port": 8081,
+        "port": 8801,
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "acd4efce-a757-4e31-80e5-8828d80601aa",
+                "id": "01ee42ed-5fc5-4c2a-8235-f9a1aa1126a2",
                 "alterId": 0
             }]
         },
